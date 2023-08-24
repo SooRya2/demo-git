@@ -1,2 +1,3 @@
 add and remove
 change the roles
+manage the database
