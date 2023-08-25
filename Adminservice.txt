@@ -5,4 +5,5 @@ change 1
 change 2
 
 checking changes
-checking commit change in github commits
+
+checking merge between main and feature3
